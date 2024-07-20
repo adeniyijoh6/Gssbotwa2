@@ -7,7 +7,7 @@ global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
+global.ownername = "John Smith";
 global.owner = ['+2348109355777'];
 global.premium = ['+2348109355777'];
 global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
